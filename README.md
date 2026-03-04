@@ -35,4 +35,38 @@ http://localhost:8081
 ## Observações
 
 * Certifique-se de ter o **Node.js** instalado.
-* Caso a porta 3000 esteja ocupada, o terminal indicará outra disponível.
+
+---
+
+Requisitos - Calculadora Mobile
+
+ -> Objetivo:
+
+Detalhar funcionalidades de uma calculadora para dispositivos mobile
+
+Requisitos funcionais:
+
+1 - Números: A calculadora deve ser capaz de representar números inteiros e números de ponto flutuante (com partes decimais separadas por “,”);
+
+2 - Operadores: É importante que haja a presença de todos os operadores básicos, “+”, “-”, “/”, “*”;
+
+3 - Calcular e apagar: Devem haver botões de “=”, para apresentar o resultado final, “C” para limpeza do display e “CE”, para apagar apenas 1 dígito;
+
+4 - Display: Deve haver um display que mostra tanto os números quanto o operador atualmente selecionado. Quando o botão “=” for pressionado, apenas o resultado deve aparecer.
+
+Requisitos não funcionais:
+
+1 - O sistema deve responder instantâneamente aos comandos do usuário, com atraso imperceptível;
+
+2 - O sistema deve tratar e lidar com erros corretamente;
+
+3 - Os ícones relativos aos botões devem ser intuitivos e facilmente identificáveis.
+
+
+
+
+
+Protótipo:
+
+
+![Protótipo](./prototipo.png)
