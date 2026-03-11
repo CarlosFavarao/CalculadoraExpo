@@ -1,4 +1,3 @@
-import { StyleSheet } from 'react-native';
 import { Calculator } from '../components/calculator';
 
 export default function HomeScreen() {
@@ -6,7 +5,3 @@ export default function HomeScreen() {
     <Calculator/>
   )
 }
-
-const styles = StyleSheet.create({
-  
-});

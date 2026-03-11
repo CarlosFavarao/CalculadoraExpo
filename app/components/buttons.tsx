@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     numberButton: {
         flex: 1,
         margin: 6,
-        height: 70,
+        height: 90,
         borderRadius: 10,
         justifyContent: 'center',
         alignItems: 'center',
@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     operatorButton: {
         flex: 1,
         margin: 6,
-        height: 70,
+        height: 90,
         borderRadius: 10,
         justifyContent: 'center',
         alignItems: 'center',
@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     actionButton: {
         flex: 1,
         margin: 6,
-        height: 70,
+        height: 90,
         borderRadius: 10,
         justifyContent: 'center',
         alignItems: 'center',
@@ -79,25 +79,25 @@ const styles = StyleSheet.create({
     emptyButton: {
         flex: 1,
         margin: 6,
-        height: 70,
+        height: 90,
         borderRadius: 10,
         backgroundColor: '#000'
     },
 
     numberText: {
-        fontSize: 28,
+        fontSize: 40,
         fontWeight: '500',
         color: '#E5E7EB'
     },
 
     operatorText: {
-        fontSize: 28,
+        fontSize: 40,
         fontWeight: '600',
         color: '#fff'
     },
 
     actionText: {
-        fontSize: 28,
+        fontSize: 40,
         fontWeight: '600',
         color: '#fff'
     }
